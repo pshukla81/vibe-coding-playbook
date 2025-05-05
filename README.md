@@ -16,22 +16,22 @@ This project curates best practices, prompt templates, code review workflows, an
 ## 🔄 Collaboration Workflow
 
 🧑‍💻 Developer
-Creates structured prompt using the prompt-template.md 
+* Creates structured prompt using the prompt-template.md 
 
-Saves as .prompt.md with unique ID in /prompts/
+* Saves as .prompt.md with unique ID in /prompts/
 
-Generates code using Claude, Cursor, or Copilot
+* Generates code using Claude, Cursor, or Copilot
 
-Adds prompt metadata to the code and PR
+* Adds prompt metadata to the code and PR
 
-Pushes PR with clear AI flag (e.g., ai-gen, prompt:claude)
+* Pushes PR with clear AI flag (e.g., ai-gen, prompt:claude)
 
 👀 Reviewer
-Validates prompt context, traceability, and logic
+* Validates prompt context, traceability, and logic
 
-Uses checklist vibe-coding-checklist.md to audit code, test, security, and maintainability
+* Uses checklist vibe-coding-checklist.md to audit code, test, security, and maintainability
 
-Approves only after confirming alignment with system constraints
+* Approves only after confirming alignment with system constraints
 
 ## 👤 Who This Is For
 
