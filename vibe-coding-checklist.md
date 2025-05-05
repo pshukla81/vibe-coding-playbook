@@ -4,7 +4,7 @@ This checklist supports engineering leaders, reviewers, and AI-powered developer
 
 ---
 
-## 📌 Prompt Review Checklist
+##  Prompt Review Checklist
 
 - [ ] Prompt file exists and is linked in the PR
 - [ ] Prompt includes input/output contract and connected APIs
@@ -16,7 +16,7 @@ This checklist supports engineering leaders, reviewers, and AI-powered developer
 
 ---
 
-## 🧠 Code Structure & Logic Checklist
+## Code Structure & Logic Checklist
 
 - [ ] AI metadata header is present in generated code
 - [ ] Code is modular and follows service boundaries
@@ -28,7 +28,7 @@ This checklist supports engineering leaders, reviewers, and AI-powered developer
 
 ---
 
-## 🔐 Security & Compliance Checklist
+## Security & Compliance Checklist
 
 - [ ] No secrets, keys, or tokens are hard-coded or logged
 - [ ] JWTs, emails, and PII are masked in logs
@@ -39,7 +39,7 @@ This checklist supports engineering leaders, reviewers, and AI-powered developer
 
 ---
 
-## 🧪 Testing & Verification Checklist
+## Testing & Verification Checklist
 
 - [ ] Unit and integration tests included and scoped
 - [ ] External APIs are mocked or sandboxed in tests
@@ -49,7 +49,7 @@ This checklist supports engineering leaders, reviewers, and AI-powered developer
 
 ---
 
-## 📊 Scalability & Observability Checklist
+## Scalability & Observability Checklist
 
 - [ ] Latency-sensitive sections are async or backgrounded
 - [ ] Timeouts and retry strategies align with SLAs
@@ -59,7 +59,7 @@ This checklist supports engineering leaders, reviewers, and AI-powered developer
 
 ---
 
-## 📘 Documentation & Maintainability Checklist
+##  Documentation & Maintainability Checklist
 
 - [ ] Prompt version and context are documented in code
 - [ ] Prompt markdown file lives under `/prompts/`
