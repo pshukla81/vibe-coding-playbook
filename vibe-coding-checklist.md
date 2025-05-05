@@ -1,4 +1,4 @@
-# ✅ Vibe Coding Checklist for AI-Assisted Development in B2B2C SaaS
+# ✅ Vibe Coding Checklist for AI-Assisted Development in SaaS
 
 This checklist supports engineering leaders, reviewers, and AI-powered developers in safely deploying AI-generated code in production SaaS environments.
 
