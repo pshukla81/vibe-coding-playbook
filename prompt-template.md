@@ -61,7 +61,7 @@ Use this structured format when generating code with Claude, Copilot, or any AI 
 
 ---
 
-## ✅ Testing Requirements
+## Testing Requirements
 
 - Include unit and integration test stubs  
 - Use mocks for external services (Stripe, billing)
