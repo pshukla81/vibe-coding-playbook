@@ -1,10 +1,10 @@
-# 🧠 Vibe Coding Prompt Template
+# Vibe Coding Prompt Template
 
 Use this structured format when generating code with Claude, Copilot, or any AI assistant. Store each prompt file under the `/prompts/` directory using the format `prompt-name-version.md`. Reference the `prompt_id` in your code and pull request.
 
 ---
 
-## 📝 Prompt Metadata
+## Prompt Metadata
 
 - **Prompt ID:** `invoice_payment_v3`  
 - **Author:** alice@company.com  
@@ -14,20 +14,20 @@ Use this structured format when generating code with Claude, Copilot, or any AI 
 
 ---
 
-## 🔧 Prompt Purpose
+## Prompt Purpose
 
 > Generate an async Python function that captures and logs invoice payment events, with retries and audit trails. The code should support high QPS and follow clean architectural boundaries.
 
 ---
 
-## 🌐 Connected APIs
+## Connected APIs
 
 - Stripe Payments API  
 - Internal Billing Microservice (v2)
 
 ---
 
-## ⚙️ Runtime & System Constraints
+## Runtime & System Constraints
 
 - Cloud Environment: AWS Lambda  
 - Language: Python 3.10  
@@ -41,7 +41,7 @@ Use this structured format when generating code with Claude, Copilot, or any AI 
 
 ---
 
-## 🔄 Concurrency & Behavior Expectations
+## Concurrency & Behavior Expectations
 
 - Use `async def` and `await` for all I/O-bound operations  
 - Avoid sync libraries and blocking operations  
@@ -51,7 +51,7 @@ Use this structured format when generating code with Claude, Copilot, or any AI 
 
 ---
 
-## 🔐 Security & Compliance Requirements
+## Security & Compliance Requirements
 
 - Mask PII (e.g., tokens, user emails) in logs  
 - Never log or expose secrets, JWTs, or API keys  
