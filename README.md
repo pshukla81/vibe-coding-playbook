@@ -75,7 +75,7 @@ Want to improve this playbook? Open an [Issue](https://github.com/your-repo/issu
 
 ## 👋 Maintainer
 
-This project is maintained by \[Your Name], engineering leader and AI SaaS builder. Follow for more insights on AI-driven product development and scalable team practices.
+This project is maintained by Preeti Shukla, engineering leader and AI SaaS builder. Follow for more insights on AI-driven SaaS product development and scalable team practices.
 
 ---
 
