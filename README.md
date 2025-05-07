@@ -74,9 +74,9 @@ Want to improve this playbook? Open an [Issue](https://github.com/your-repo/issu
 ---
 
 ## 👋 Maintainer
-
 This project is built and maintained by Preeti Shukla, engineering leader and AI SaaS builder. Follow for more insights on AI-driven SaaS product development and scalable team practices.
 www.linkedin.com/in/preeti-shukla-lead-technology
+
 ---
 
 > AI tools may write your code, but only humans can own the outcomes. This playbook helps you do both responsibly.
